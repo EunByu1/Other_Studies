@@ -13,5 +13,5 @@ ylim([-2, 2])
 
 plot(x, y, 'b-', 'LineWidth', 2);
 xlabel('X axis')
-ylabel('Y axis')
+ylabel('Y axis') 
 title('Sine Wave')
