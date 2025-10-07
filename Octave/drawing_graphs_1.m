@@ -1,7 +1,7 @@
 clc; clear; close all;
 
 x = 0:0.1:2*pi;
-y1 = sin(x);
+y1 = sin(x); 
 y2 = cos(x);
 
 figure;
