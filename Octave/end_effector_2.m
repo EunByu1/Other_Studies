@@ -9,7 +9,7 @@ theta2 = pi/6; % 60º
 
 DH = [0, 0,  0, theta1;
       0, L1, 0, theta2;
-      0, L2, 0,      0];
+      0, L2, 0,      0]; 
 
 % T01 = Rot(z1, theta1)
 T01 = [cos(theta1), -sin(theta1), 0, 0;
