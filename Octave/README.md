@@ -29,3 +29,5 @@
   - [2DOF Robot Workspace](https://github.com/EunByu1/Robotics_Study/blob/main/Octave/2DOF_robot_workspace_1.m)
   - [2DOF Robot Workspace_1](https://github.com/EunByu1/Robotics_Study/blob/main/Octave/2DOF_robot_workspace_1.m)
   - [2DOF Robot Workspace_2](https://github.com/EunByu1/Robotics_Study/blob/main/Octave/2DOF_robot_workspace_2.m)
+  - [Forward Kinematics & Inverse Kinematics_1](https://github.com/EunByu1/Robotics_Study/blob/main/Octave/kinematics_1.m)
+  - [Forward Kinematics & Inverse Kinematics_2](https://github.com/EunByu1/Robotics_Study/blob/main/Octave/kinematics_2.m)
