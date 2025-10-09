@@ -22,4 +22,10 @@
   <br>
 
 - Mechanics
-  - [Coordinate Transformation](https://github.com/EunByu1/Other_Studies/blob/main/Octave/coordinate_transformation.m)
+  - [Coordinate Transformation_1](https://github.com/EunByu1/Robotics_Study/blob/main/Octave/coordinate_transformation_1.m)
+  - [Coordinate Transformation_2](https://github.com/EunByu1/Robotics_Study/blob/main/Octave/coordinate_transformation_2.m)
+  - [End Effector: Geometric Analysis](https://github.com/EunByu1/Robotics_Study/blob/main/Octave/end_effector_1.m)
+  - [End Effector: Forward Kinematics(FK)](https://github.com/EunByu1/Robotics_Study/blob/main/Octave/end_effector_2.m)
+  - [2DOF Robot Workspace](https://github.com/EunByu1/Robotics_Study/blob/main/Octave/2DOF_robot_workspace_1.m)
+  - [2DOF Robot Workspace_1](https://github.com/EunByu1/Robotics_Study/blob/main/Octave/2DOF_robot_workspace_1.m)
+  - [2DOF Robot Workspace_2](https://github.com/EunByu1/Robotics_Study/blob/main/Octave/2DOF_robot_workspace_2.m)
