@@ -6,6 +6,7 @@
   - [Inverse Matrix](https://github.com/EunByu1/Other_Studies/blob/main/Octave/inverse_matrix.m)
   - [Matrix Operator](https://github.com/EunByu1/Other_Studies/blob/main/Octave/operator.m)
   - [Matrix Conditional Statement](https://github.com/EunByu1/Other_Studies/blob/main/Octave/matrix_conditional%20statement.m)
+  
  <br>
  
 - Graph
@@ -19,7 +20,9 @@
   - [Linear Transformation](https://github.com/EunByu1/Other_Studies/blob/main/Octave/drawing_graphs_9.m)
   - [Dynamic Linear](https://github.com/EunByu1/Other_Studies/blob/main/Octave/drawing_graphs_10.m)
   - [Dynamic Linear Combination](https://github.com/EunByu1/Other_Studies/blob/main/Octave/drawing_graphs_11.m)
+    
   <br>
+
 
 - Mechanics
   - [Coordinate Transformation_1](https://github.com/EunByu1/Robotics_Study/blob/main/Octave/coordinate_transformation_1.m)
