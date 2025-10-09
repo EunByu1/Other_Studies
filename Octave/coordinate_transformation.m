@@ -74,6 +74,5 @@ legend({'Original X-axis', 'Original Y-axis' ,'Original Z-axis',
         'Rotated X-axis', 'Rotated Y-axis', 'Rotated Z-axis'},
         'Location', 'northeastoutside');
 
-
 axis equal;
 view(3);
