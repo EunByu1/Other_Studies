@@ -1,4 +1,4 @@
-## Mechanics & Octave
+## Kinematics & Octave
 - Basic Syntax
   - [Input](https://github.com/EunByu1/Other_Studies/blob/main/Octave/input.m)
   - [Indexing](https://github.com/EunByu1/Other_Studies/blob/main/Octave/indexing.m)
@@ -24,7 +24,7 @@
   <br>
 
 
-- Mechanics
+- Kinematics
   - [Coordinate Transformation_1](https://github.com/EunByu1/Robotics_Study/blob/main/Octave/coordinate_transformation_1.m)
   - [Coordinate Transformation_2](https://github.com/EunByu1/Robotics_Study/blob/main/Octave/coordinate_transformation_2.m)
   - [End Effector: Geometric Analysis](https://github.com/EunByu1/Robotics_Study/blob/main/Octave/end_effector_1.m)
